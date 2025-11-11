@@ -1,5 +1,21 @@
 ![Logo](https://i.imgur.com/MVToLiQ.png)
 
+---
+
+## Notice: Repository Migration
+
+**All my active development has moved to [git.alemonta.dev](https://git.alemonta.dev)** — my self-hosted Gitea instance.
+
+Repositories on GitHub are now archived and will no longer receive updates.
+
+You can find this project @ [git.alemonta.dev/alemontamd5/eggcitingeaster.git](https://git.alemonta.dev/alemontamd5/eggcitingeaster.git)
+
+You can find current and continued projects at:
+
+➡️ [https://git.alemonta.dev/alemontamd5](https://git.alemonta.dev/alemontamd5)
+
+---
+
 #### Eggciting Easter
 Check the plugin on [SpigotMC](https://www.spigotmc.org/resources/eggciting-easter-custom-textures-drops-particles-interactions-commands-much-more.108640/ "SpigotMC.org")
 
